@@ -162,5 +162,4 @@ const ListarTarefa = () => {
     </>
   );
 };
-
 export default ListarTarefa;
